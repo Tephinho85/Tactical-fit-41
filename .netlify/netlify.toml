@@ -10,7 +10,6 @@ redirects = []
 publish = "D:\\Projetos\\Treinador\\tactical-fit\\dist"
 publishOrigin = "ui"
 commandOrigin = "ui"
-base = "D:\\Projetos\\Treinador\\tactical-fit"
 command = "npm run build"
 
 [build.environment]
