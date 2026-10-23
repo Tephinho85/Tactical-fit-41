@@ -1,0 +1,8 @@
+{
+  "short_name": "TacticalFit",
+  "name": "Tactical Fit 41+",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#10b981"
+}
